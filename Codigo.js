@@ -1,6 +1,6 @@
-alert ("Si funciona");
-document.write ("Hola estudiante!! ");
+alert ("It works!");
+document.write ("Hello student!! ");
 var ruta = window.location;
-document.write ("Estás en ", ruta);
-console.log ("Este es un mensaje secreto");
+document.write ("You are at ", ruta);
+console.log ("This is a secrect message");
 console.log (window);
