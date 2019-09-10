@@ -1,10 +1,7 @@
-# Lo Básico del DOM 
+# Le DOM
 <p>
-  Cuando escribes HTML, hay una cosa imporante llamada DOM (Document Object Model). El DOM es una jerarquía. Voy a jugar con esa jerarquía.
+  Quand vos escribez HTML, il y a une chose importante, le DOM (Document Objet Model). Le DOM est une jerarquie. Je vais jouer avec ce jerarquie.
 </p>
 <p>
-  This project contains an HTML and a Javascript document. Which tell you where are you using the Window attribute "route" by using the Document method "write"
-</p>
-<p>
-  Este projecto contiene unos documentos HTML y Javascript. Que te dicen dónde estás usando el atributo "route" de Window usando el método "write" de Document. 
+  Ce projet a un document HTML et un Javascript. Il vous dit ou etez-Vous en utilisent l'atribute "route" de Window avec la méthode "write" de Document. 
 </p>
